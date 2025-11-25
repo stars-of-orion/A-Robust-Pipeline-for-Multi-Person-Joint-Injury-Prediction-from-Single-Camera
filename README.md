@@ -1,9 +1,9 @@
-لإاث 
-ف
 
 # README
-The files of this repo is protected by password which is the paper ID starwith with ai-40***
 
+
+
+The files of this repo is protected by password which is the paper ID starwith with ai-40***
 
 This folder contains all files used to generate the dataset, build the
 view classification models, and test the posture assessment pipeline.
