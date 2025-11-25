@@ -33,6 +33,5 @@ These files are serialized and used to load the trained models and the fitted sc
 This CSV file contains the full processed dataset (over 270K rows) generated from the two COCO annotation JSON files. It includes all 17 COCO keypoints (x and y coordinates), with the visibility flag removed after processing, and
 each row is labeled with the final view class assigned using the project's rule-based method.
 ---
-## 5. Danger dataset testing This folder contains a Unity-generated dataset used for testing failure cases. It includes synthetic sequences for **LeftKnee** and **LeftElbow** flexions, starting from a neutral position (0°) up to abnormal angles where the Human Pose
-Estimation model fails to estimate the posture correctly.
+## 5. Danger dataset testing This folder contains a Unity-generated dataset used for testing failure cases. It includes synthetic sequences for **LeftKnee** and **LeftElbow** flexions, starting from a neutral position (0°) up to abnormal angles where the Human Pose Estimation model fails to estimate the posture correctly.
 ---
